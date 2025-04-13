@@ -20,7 +20,6 @@ I'm a career switcher with a passion for data analytics.
 📁 [Explore project on GitHub](https://github.com/твій_репозиторій)
 
 ## 🔧 Tools & Technologies
-## 🔧 Tools & Technologies
 ![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
