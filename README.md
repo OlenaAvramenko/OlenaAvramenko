@@ -5,7 +5,11 @@ I'm a career switcher with a passion for data analytics.
 
 ## 💼 My Focus
 - SQL (joins, CTEs, aggregation)
+- Python pandas
 - Tableau (dashboards, interactive visuals)
+- Looker Studio
+- Amplitude
+- A/B test
 - Data cleaning & transformation
 - Analytical thinking and data storytelling
 
