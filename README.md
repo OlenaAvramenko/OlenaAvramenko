@@ -17,7 +17,7 @@ I'm a career switcher with a passion for data analytics.
 ## 📊 Featured Project
 **Marketing Campaign Performance Overview**  
 🔗 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/olena.avramenko4187/viz/Visualisation_17445723619140/MarketingCampaignPerformanceOverview?publish=yes)  
-📁 [Explore project on GitHub](https://github.com/твій_репозиторій)
+📁 [Explore project on GitHub](https://github.com/OlenaAvramenko/Marketing_Campaign_Analysis)
 
 ## 🔧 Tools & Technologies
 ![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=white)
