@@ -33,4 +33,8 @@ I'm a career switcher with a passion for data analytics.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## 📫 Let’s connect!
-Feel free to reach out if you have a freelance project or collaboration in mind!
+Feel free to reach out if you have a freelance project or collaboration in mind.
+
+📧 Email: avramenko.ele@gmail.com  
+💬 Telegram: [@olena_avramenko](https://t.me/olena_avramenko)
+
