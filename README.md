@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi there, I'm Olena!
 
-<!--
-**OlenaAvramenko/OlenaAvramenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a career switcher with a passion for data analytics.  
+🎓 Recently graduated from GoIT and currently open to freelance projects where I can apply and grow my skills.
 
-Here are some ideas to get you started:
+## 💼 My Focus
+- SQL (joins, CTEs, aggregation)
+- Tableau (dashboards, interactive visuals)
+- Data cleaning & transformation
+- Analytical thinking and data storytelling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Featured Project
+**Marketing Campaign Performance Overview**  
+🔗 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/olena.avramenko4187/viz/Visualisation_17445723619140/MarketingCampaignPerformanceOverview?publish=yes)  
+📁 [Explore project on GitHub](https://github.com/твій_репозиторій)
+
+## 🔧 Tools & Technologies
+![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![DBeaver](https://img.shields.io/badge/-DBeaver-372923?style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+## 📫 Let’s connect!
+Feel free to reach out if you have a freelance project or collaboration in mind!
