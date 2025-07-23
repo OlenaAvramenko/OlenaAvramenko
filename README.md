@@ -7,6 +7,7 @@ I'm a career switcher with a passion for data analytics.
 - SQL (joins, CTEs, aggregation)
 - Python (Pandas, Jupyter)
 - Tableau (dashboards, interactive visuals, visual storytelling)
+- Power BI (dashboards, interactive visuals, visual storytelling)
 - Google Looker Studio & Google Sheets
 - Amplitude (event segmentation, funnels, cohorts, dashboards)
 - BigQuery for data warehousing and advanced querying
